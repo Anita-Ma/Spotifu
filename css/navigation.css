@@ -1,5 +1,5 @@
 .navigation {
-	border: 1px solid red;
+	flex-shrink: 0;
 }
 
 .navigation button {
